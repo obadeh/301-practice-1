@@ -1,0 +1,20 @@
+header{
+    background-color: black;
+    color: white;
+}
+footer{
+    background-color: #999;
+    color: black;
+}
+
+div{
+    background-color: rgb(236, 236, 236);
+    color: rgb(33, 33, 189);
+}
+li {
+    list-style-type: none;
+    display:inline;
+    border: solid 1px blueviolet;
+    padding: 5px;
+    margin: 5px;
+}
